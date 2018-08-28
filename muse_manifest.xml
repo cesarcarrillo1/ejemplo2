@@ -1,0 +1,177 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Inicio.com" resolutions="1x" timestamp="1535418350263">
+  <folder name="css">
+    <file name="site_global.css" crc="393442717"/>
+    <file name="nosotros.css" crc="3950517560" ref="nosotros"/>
+    <file name="index.css" crc="4075780757" ref="index"/>
+    <file name="nomq_index.css" crc="3823606189" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:nosotros"/>
+    <file name="museutils.js" crc="3803043152" ref="index:nosotros"/>
+    <file name="whatinput.js" crc="86476730" ref="index:nosotros"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:nosotros"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:nosotros"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:nosotros"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:nosotros"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index:nosotros"/>
+  </folder>
+  <folder name="images">
+    <file name="header.jpg" crc="341647118" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:nosotros"/>
+    <file name="slide3.jpg" crc="4173488106" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slide2.jpg" crc="3885224315" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flecha-izquierda.png" crc="3975364059" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flecha-derecha.png" crc="152649081" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u927-4.png" crc="80186589" ref="index"/>
+    <file name="u447-4.png" crc="288911377" ref="index"/>
+    <file name="u467-3.png" crc="124896955" ref="index"/>
+    <file name="u433-4.png" crc="4011068010" ref="index"/>
+    <file name="u464-3.png" crc="124896955" ref="index"/>
+    <file name="u441-4.png" crc="4159539293" ref="index"/>
+    <file name="u456-3.png" crc="124896955" ref="index"/>
+    <file name="madre-crop-u1709.jpg" crc="4255048205" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tenis.jpg" crc="444984530" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mouse.jpg" crc="369723315" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="header1.jpg" crc="4033828488" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pucp.jpg" crc="375158942" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="upch.jpg" crc="24795733" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tendinitis2.jpg" crc="3887544996" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="madre.jpg" crc="4115071401" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u447-42.png" crc="288911377" ref="index"/>
+    <file name="u467-32.png" crc="4268364212" ref="index"/>
+    <file name="u433-42.png" crc="4011068010" ref="index"/>
+    <file name="u464-32.png" crc="4268364212" ref="index"/>
+    <file name="u441-42.png" crc="4159539293" ref="index"/>
+    <file name="u456-32.png" crc="4268364212" ref="index"/>
+    <file name="u927-42.png" crc="4072667723" ref="index"/>
+    <file name="madre-crop-u17092.jpg" crc="4163069746" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u927-43.png" crc="4072667723" ref="index"/>
+    <file name="u447-43.png" crc="288911377" ref="index"/>
+    <file name="u467-33.png" crc="4268364212" ref="index"/>
+    <file name="u433-43.png" crc="4011068010" ref="index"/>
+    <file name="u464-33.png" crc="4268364212" ref="index"/>
+    <file name="u441-43.png" crc="4159539293" ref="index"/>
+    <file name="u456-33.png" crc="4268364212" ref="index"/>
+    <file name="madre-crop-u17093.jpg" crc="4290959552" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u927-44.png" crc="4072667723" ref="index"/>
+    <file name="madre-crop-u17094.jpg" crc="286916094" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u927-45.png" crc="4072667723" ref="index"/>
+    <file name="u3701-4.png" crc="80186589" ref="nosotros"/>
+    <file name="u3806-4.png" crc="288911377" ref="nosotros"/>
+    <file name="u3787-3.png" crc="124896955" ref="nosotros"/>
+    <file name="u3780-4.png" crc="4011068010" ref="nosotros"/>
+    <file name="u3799-3.png" crc="124896955" ref="nosotros"/>
+    <file name="u3792-4.png" crc="4159539293" ref="nosotros"/>
+    <file name="u3772-3.png" crc="124896955" ref="nosotros"/>
+    <file name="victor.jpg" crc="316427668" seo="true" ref="nosotros">
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="josue.jpg" crc="4074084906" seo="true" ref="nosotros">
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="zapana.jpg" crc="4066962302" seo="true" ref="nosotros">
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="elena.jpg" crc="253299871" seo="true" ref="nosotros">
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="césar.jpg" crc="4015796389" seo="true" ref="nosotros">
+      <caption webpage="nosotros" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4177344912" seo="true" mt="1535418151185" redirect="true"/>
+  <file name="nosotros.html" crc="3889579235" seo="true" mt="1535417858034" redirect="true"/>
+</manifest>
